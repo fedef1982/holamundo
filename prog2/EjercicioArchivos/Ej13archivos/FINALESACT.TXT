@@ -1,0 +1,9 @@
+nombre		legajo		codigoMat
+
+fresco0		10000000		900000
+federico0		10000000		900000
+fresco1		10000004		900002
+federico1		10000003		900002
+fresco2		10000008		900004
+federico2		10000006		900004
+federico3		10000009		900006

@@ -1,0 +1,4 @@
+nombre		legajo		codigoMat	Fecha inscripcion
+
+hola		123		456		10-10-1999
+chau		110		789		10-10-1999

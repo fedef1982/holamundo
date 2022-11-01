@@ -1,0 +1,1 @@
+fwrite(&rSerie,sizeof(serie), 1 , actSeries);
